@@ -1,7 +1,7 @@
 # Social Media Content Filtering
 Samantha Baltodano
 
-![alt text](Visuals/social_media)
+![alt text](file-20210604-23-e0is4c.jpeg)
 
 Content filtering has been a sensitive subject in the media over the last few years. In 
 
