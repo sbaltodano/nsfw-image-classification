@@ -24,6 +24,8 @@ Content filtering is a must for all mainstream social media platforms. The inter
 
 ## Business Understanding
 
+
+
 ## Data Understanding and Preparation
 I collected my `neutral`, `sexy`, `explicit` image classes through the [NSFW Data Scraper](https://github.com/alex000kim/nsfw_data_scraper) on Github. The data was noisy, misclassifying many `sexy` and `explicit` images with one another which would be detrimental to the integrity of my classifier; I manually sorted through the images to ensure that my model performance and accuracy was not negatively impacted by the misclassifications. After classifying and removing corrupt images, I ended with total of 92,443 photos to feed my classifier. 
 
@@ -35,19 +37,22 @@ Images were converted to grayscale to 1) Reduce computational complexity and 2) 
     
 <INSERT IMAGE/ Maybe >
 
+It was important that I test the accuracy of my model on breastfeeding photos which were not available in the NSFW Data Scraper. In this case, I webscraped <INSERT NUMBER/ > breastfeeding photos from Google Images and again filtered through the images manually to remove noise. After a best performing model was determined based on performance on the above previously specified 
+
 ## Analysis
 
-## Predictive Models
 
+
+## Predictive Models
+*** EXPLAIN FINAL MODEL LAYERS AND THEIR PURPOSE/EFFECT
     
 <INSERT FINAL MODEL SUMMARY/ >
     
 <INSERT FINAL MODEL ACCURACY AND RECALL/CONFUSION MATRIX>
     
-*** EXPLAIN FINAL MODEL LAYERS AND THEIR PURPOSE/EFFECT
     
 ## Conclusions
-
+As predicted, my model had the most difficulty distinguishing between `sexy` and `explicit` photos with a greater tendancy to mistake sexy photos for explicit ones. 
 
 ## Contributors
 - Samantha Baltodano <br>
