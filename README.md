@@ -25,9 +25,9 @@ Content filtering is a must for all mainstream social media platforms. The inter
 ## Business Understanding
 
 ## Data Understanding and Preparation
-I collected my `neutral`, `sexy`, `explicit` image classes through the [NSFW Data Scraper](https://github.com/alex000kim/nsfw_data_scraper) on Github. The data was noisy, misclassifying many `sexy` and `explicit` images with one another which would be detrimental to the integrity of my classifier; I manually sorted through the images to ensure that my model performance and accuracy was not negatively impacted by the misclassifications. After classifying and removing corrupt images, I ended with total of 92,xxx photos to feed my classifier. 
+I collected my `neutral`, `sexy`, `explicit` image classes through the [NSFW Data Scraper](https://github.com/alex000kim/nsfw_data_scraper) on Github. The data was noisy, misclassifying many `sexy` and `explicit` images with one another which would be detrimental to the integrity of my classifier; I manually sorted through the images to ensure that my model performance and accuracy was not negatively impacted by the misclassifications. After classifying and removing corrupt images, I ended with total of 92,443 photos to feed my classifier. 
 
-Split images into Train/Test/Split folders using the `os` and `shutil `libraries
+Split images into Train/Test/Split folders using the `os` and `shutil` libraries
 
 <INSERT IMAGE/ Maybe >
 
