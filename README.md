@@ -29,18 +29,18 @@ I collected my `neutral`, `sexy`, `explicit` image classes through the [NSFW Dat
 
 Split images into Train/Test/Split folders using the `os` and `shutil `libraries
 
-<INSERT IMAGE> ???
+<INSERT IMAGE/> ???
 
 Images were converted to grayscale to 1) Reduce computational complexity and 2) Prevent possible racial bias in the event that racial minorities were under or over represented within certain image classes. Image quality reduced to (80,80), again to reduce computational complexity.
     
-<INSERT IMAGE> ???
+<INSERT IMAGE/> ???
 
 ## Analysis
 
 ## Predictive Models
 
     
-<INSERT FINAL MODEL SUMMARY>
+<INSERT FINAL MODEL SUMMARY/>
     
 <INSERT FINAL MODEL ACCURACY AND RECALL/CONFUSION MATRIX>
     
