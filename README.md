@@ -7,7 +7,7 @@ Samantha Baltodano
 ## Table of Contents
 * [Overview](#overview)
 * [Business Understanding](#business-understanding)
-* [Method](#method)
+* [Data Understanding and Preparation](#data-understanding-and-preparation)
 * [Analysis](#analysis)
 * [Predictive Models](#predictive-models)
 * [Conclusions](#conclusions)
@@ -22,7 +22,7 @@ Content filtering has been a sensitive subject in the media over the last few ye
 
 ## Business Understanding
 
-## Method
+## Data Understanding and Preparation
 
 ## Analysis
 
