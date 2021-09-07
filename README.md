@@ -40,7 +40,7 @@ Images were converted to grayscale to 1) Reduce computational complexity and 2) 
 ## Predictive Models
 
     
-<INSERT FINAL MODEL SUMMARY >
+<INSERT FINAL MODEL SUMMARY/ >
     
 <INSERT FINAL MODEL ACCURACY AND RECALL/CONFUSION MATRIX>
     
