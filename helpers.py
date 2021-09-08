@@ -7,6 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/1jkJaLbXp6j89K46voNBTpyQquoeBO_EX
 """
 
+import matplotlib.pyplot as plt
+
 # create a function to reuse for plotting accuracy and loss per epoch
 def plot_model_train_accuracy_loss(model_score):
 
