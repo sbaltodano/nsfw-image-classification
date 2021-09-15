@@ -1,7 +1,7 @@
 # Social Media Content Filtering
 Samantha Baltodano
 
-![alt text](file-20210604-23-e0is4c.jpeg)
+![alt text](Visuals/file-20210604-23-e0is4c.jpeg)
 
 
 ## Table of Contents
