@@ -50,7 +50,7 @@ The very large class imbalance in the `violent` and `breastfeeding` categories w
 
 As expected, this model had the most difficulty classifying the `sexy` images, often confusing them with `explicit` images. Some of this can be explained by the model itself, but as I previously mentioned there were still many misclassified `sexy` images after manual re-classification which affected the models performance.
 
-![alt text](Visuals/3 class matrix.png)
+![alt text](Visuals/3_class_matrix.png)
 
 ![alt text](Visuals/3_class_recall.png)
 
