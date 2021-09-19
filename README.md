@@ -31,7 +31,7 @@ The `violent` category was included to account for different types of explicit, 
 ## Business Understanding
 Social media spans all corners of the world - Facebook last recorded [2.89 billion active users](https://www.statista.com/statistics/264810/number-of-monthly-active-facebook-users-worldwide/) in the second quarter of 2021 and Intagram and Reddit fall behind with [1.074 billion](https://www.omnicoreagency.com/instagram-statistics/) and [54 million](https://www.oberlo.com/blog/reddit-statistics) active users. With a platform reaching so many people, content filtering is crucial to protect users from inappropriate and possibly traumatizing images. Facebook even has an entire team of [content moderators](https://www.theverge.com/2019/2/25/18229714/cognizant-facebook-content-moderator-interviews-trauma-working-conditions-arizona) whose entire days are spent manually reviewing photos and posts for this very reason.
 
-![alt text](Visuals/60-seconds-on-the-internet.png)
+[<img src="Visuals/60-seconds-on-the-internet.png" width="500" height="500">]
 
 Despite the good intent behind content filtering on social platforms, Instagram and Facebook have received a lot of public scrutiny regarding the #freethenipple movement, claims racial bias when banning accounts and images, and even lawsuits against the platforms for violation of user freedom of speech/expression. Machine learning models. My goal was to build a image classifier capable of filtering explicit sexual content while also remaining inclusive of all types of people and of their content. I created numerous binary and multiclass image classifiers to protect user freedom as well as protect their "innocence."
 
