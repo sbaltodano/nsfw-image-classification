@@ -78,7 +78,7 @@ This model did a great job filtering out `explicit` content, with a 92% recall, 
 ## Analysis and Conclusions
 When it concerns inclusivity, these models fall short of allowing freedom of expression (`sexy` photo misclassifications as `explicit`) and allowing nursing photos (misclassification of `breastfeeding` photos as `explicit`). In removing explicit content, the final models did a great job in correctly classifiying sexually explicit content and not violent explicit content. It is also difficult to measure just how well it accounts for racial bias in data without it being deployed. These CNN models leave a lot to be desired, but overall an accuracy of 80-85% on each model performs nearly twice as well as the baseline model.
 
-It is important to note that the CNN models are so complex that they could likely never be deployed on actual social network platforms. To do this, the CNN would need to be decreased in size while maintaining accuracy. Here's a [source](https://towardsdatascience.com/decrease-neural-network-size-and-maintain-accuracy-knowledge-distillation-6efb43952f9d) for how I can accomplish this in$ the future.
+It is important to note that the CNN models are so complex that they could likely never be deployed on actual social network platforms. To do this, the CNN would need to be decreased in size while maintaining accuracy. Here's a [source](https://towardsdatascience.com/decrease-neural-network-size-and-maintain-accuracy-knowledge-distillation-6efb43952f9d) for how I can accomplish this in the future.
 
 ## Contributors
 - Samantha Baltodano <br>
